@@ -68,7 +68,7 @@
 .contacts__link:active,
 .contacts__link:focus {
     color: rgba(59, 85, 125, 0.9);
-    font-weight: 700;
+    font-weight: 500;
     text-shadow: 0px 2px 18px rgb(255, 255, 255);
 }
 
